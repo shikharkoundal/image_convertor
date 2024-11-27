@@ -38,8 +38,7 @@ ros2 pkg create --build-type ament_python image_converter --dependencies rclpy s
 **Clone or download the image_converter package into your ROS workspace and build the package:**
 
 ```
-
-
+git clone https://github.com/shikharkoundal/image_convertor
 ```
 
 
